@@ -1,0 +1,10 @@
+.link{
+    text-decoration: none;
+    color: inherit;
+}
+#root{
+    background-image: url("../bk.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
